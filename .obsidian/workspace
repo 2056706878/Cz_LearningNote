@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "5713cf0892ccc6fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99c20247d2fde73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CodeNote/utils/js/函数的防抖与节流.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7915fa62755f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "341839aa3498ce5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2b2cad36529b23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9c3e26d1c62601a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f90ccd6ce9850fd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "207ba79e5164e568",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeee8cc8d759396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d27d6fdb171021f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CodeNote/utils/js/函数的防抖与节流.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c45a29537499ace",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CodeNote/utils/js/函数的防抖与节流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "697c6c0b5c93cd13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "272a180948d74bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CodeNote/utils/js/函数的防抖与节流.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed2b2cad36529b23",
+  "lastOpenFiles": []
+}
