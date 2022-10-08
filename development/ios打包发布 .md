@@ -30,10 +30,10 @@
 
 ## 发布
 
-1. 打开 ios 管理平台[https://developer.apple.com/account/resources/identifiers/list](管理平台)
+1. 打开 ios [管理平台](https://developer.apple.com/account/resources/identifiers/list)
 2. 点击 _Identifiers_,找到对应的项目包名,点击列表进入详情页
 3. 如果列表中没有，需要新建项目：点击 Identifiers 右侧加号,选择 App IDs，点击 _Continue_,选择 App，再点击 _Continue_，输入 Bundle,即项目包名，再点击 _Continue_。
-4. 打开 ios App Store [https://appstoreconnect.apple.com/login](AppStore)
+4. 打开 ios  [App Store](https://appstoreconnect.apple.com/login)
 5. 点击 App 右侧加号,创建新的 App
 
 - 平台 选择为 _ios_
