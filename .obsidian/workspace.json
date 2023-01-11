@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d3db1085a34a20d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CodeNote/react/utils/函数的防抖与节流.md",
-            "mode": "source",
-            "source": false
+        "id": "8ec7bc66878bcb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49751bbffe55dfae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodeNote/react/utils/函数的防抖与节流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9e6e3866ca7400e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodeNote/react/utils/函数的防抖与节流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e9478f0f3fddd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodeNote/react/utils/函数的防抖与节流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -128,17 +161,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3db1085a34a20d7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e2e9478f0f3fddd7",
   "lastOpenFiles": [
+    "CodeNote/react/utils/函数的防抖与节流.md",
+    "CodeNote/react/utils/生成随机UUID.md",
+    "development/Self_summary.md",
+    "development/cz.md",
     "development/ios打包发布.md",
     "development/自动从配置文件读取并写入相应的地方.md",
     "管理平台.md",
-    "CodeNote/react/utils/函数的防抖与节流.md",
     "CodeNote/react/hooks/自动同步至localStorage.md",
     "CodeNote/react/hooks/获取窗口宽高变化.md",
-    "assets/development/images/ios获取配置文件的版本信息.png",
-    "development/项目开发文档.md",
-    "development/新建文本文档.md",
-    "development/Self_summary.md"
+    "assets/development/images/ios获取配置文件的版本信息.png"
   ]
 }
